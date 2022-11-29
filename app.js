@@ -1,6 +1,6 @@
 // console.log(process);
 // научить читать файлы
-// ДОКУМЕНТ 1
+// ДОКУМЕНТ 2
 const mysql = require('mysql2/promise');
 const config = require('./config');
 
